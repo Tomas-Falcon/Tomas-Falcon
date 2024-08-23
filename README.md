@@ -1,4 +1,4 @@
-<h1 align="left">¡Hola 👋 ¿Cómo va todo?</h1>
+  <h1 align="left">¡Hola! 👋 ¿Cómo va todo?</h1>
 
 
 <p align="left">¡Hola! Soy Tomás Falcón, un desarrollador fullstack recién graduado. Aquí están mis proyectos personales.</p>
